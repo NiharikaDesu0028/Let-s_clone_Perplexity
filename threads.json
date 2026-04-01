@@ -1,0 +1,169 @@
+{
+  "6879f156-1647-4b27-b172-1766db8b3c0f": {
+    "title": "hi",
+    "history": [
+      [
+        "user",
+        "hi"
+      ],
+      [
+        "model",
+        "Hello there! How can I help you today?"
+      ],
+      [
+        "user",
+        "what is the first question in short answer question"
+      ],
+      [
+        "model",
+        "The first question in the short answer questions is: \"Mention the types of cement.\""
+      ],
+      [
+        "user",
+        "hello"
+      ],
+      [
+        "model",
+        "Hello! How can I assist you today?"
+      ]
+    ],
+    "pdf_context": "                     \nBCME\n \nMID-1\n \nQUESTION\n \nBANK\n \n \n \n \nLong\n \nAnswer\n \nQuestions:\n \n \n \n1\n.\nClassify\n \nbricks\n \nand\n \nexplain\n \nthe\n \nproperties\n \nof\n \nbricks.\n \n \n2.Illustrate\n \naggregate.\n \nExplain\n \nthe\n \nclassification\n \nof\n \naggregates\n \nin\n \ndetail.\n \n \n3.\n \na)\n \nConvert\n \nthe\n \nfollowing\n \nwhole\n \ncircle\n \nbearings\n \ninto\n \nreduced\n \nbearings:\n \n \n(a)\n \n14\u00b030\u2019\n \n(b)\n \n213\u00b0\n \n30\u2019\n \n(c)\n \n165\u00b0\n \n30\u2019\n \n(d)\n \n290\u00b0\n \n30\u2019\n \n(e)\n \n110\u00b0\n \n45\u2019\n \n \n3.b)Write\n \na\n \nshort\n \nnote\n \non\n \nwhole\n \ncircle\n \nbearing\n \nand\n \nreduced\n \nbearing\n.\n \n \n \n4\n \n.The\n \nfollowing\n \nten\n \nreadings\n \nwere\n \ntaken\n \nwith\n \na\n \nlevel,\n \nthe\n \ninstrument\n \nbeing\n \nshifted\n \nafter\n \nthe\n \nfifth\n \nand\n \neighth\n \nreadings:\n \n1.315,\n \n0.965,\n \n1.345,\n \n1.105,\n \n0.875,\n \n1.155,\n \n1.305\n \n1.675,\n \n1.345\n \nand\n \n1.875.\n \nThe\n \nRL\n \nof\n \nthe\n \nfirst\n \npoint\n \nis\n \n150.000.\n \nFind\n \nthe\n \nreduced\n \nlevels\n \nof\n \nthe\n \nremaining\n \npoints\n \n \n5.Explain\n \ntypes\n \nof\n \npavements\n \nwith\n \na\n \nneat\n \nsketch.\n \n \n \n6.What\n \nis\n \ntunnel\n \nand\n \nexplain\n \nin\n \ndetail.\n \n \n \n7.\nExplain\n \nany\n \ntwo\n \ndisciplines\n \nof\n \ncivil\n \nengineering\n \nin\n \ndetail.\n \n \n8.\nWhat\n \nis\n \ncement?\n \nList\n \nout\n \nthe\n \ntypes\n \nof\n \ncements\n \nand\n \ndiscuss\n \nraw\n \nmaterials\n \nused\n \nfor\n \nmanufacturing\n \nof\n \ncement.\n \n \n9.\nExplain\n \ncontours\n \nand\n \nuses\n \nof\n \ncontour\n \nmaps.\n \n \n \n \n10.a)\n \nConvert\n \nthe\n \nfollowing\n \nreduced\n \nbearings\n \ninto\n \nwhole\n \ncircle\n \nbearings:\n \n \n \n \n10.b)\n \nExplain\n \nthe\n \ntypes\n \nof\n \ninstruments\n \nused\n \nin\n \nlevelling\n \n \n11.Discuss\n \nquality\n \nand\n \nspecifications\n \nof\n \ndrinking\n \nwater.\n \n \n \n12.What\n \nis\n \nrainwater\n \nharvesting\n \nand\n \ndiscuss\n \nits\n \nimportance?\n \n \n \n13.Discuss\n \nthe\n \nroles\n \nand\n \nresponsibilities\n \nof\n \na\n \ncivil\n \nengineer\n \nin\n \ndetail.\n \n \n \n14.What\n \nare\n \nthe\n \nmain\n \nprinciples\n \ninvolved\n \nin\n \nbuilding\n \nplanning?\n \nExplain\n \nbriefly.\n \n \n \n15.a)\n \nThe\n \nfollowing\n \nfore\n \nbearings\n \nwere\n \nobserved\n \nfor\n \nlines,\n \nAB,\n \nBC,\n \nCD,\n \nDE,\n \nEF\n \nand\n \nFG\n \nrespectively.\n \nCalculate\n \ntheir\n \nback\n \nbearings:\n \n(a)\n \n148\u00b0\n \n(b)\n \n65\u00b0\n \n(c)\n \n285\u00b0\n \n(d)\n \n215\u00b0\n \n(e)\n \nN\n \n36\u00b0\n \nW\n \n(f)\n \nS\n \n40\u00b0\n \nE\n \n \n15.b)\n \nWhat\n \nis\n \nthe\n \nprinciple\n \nof\n \nchain\n \nsurveying?\n \nExplain\n \nthe\n \nprocedure\n \nfor\n \nmeasuring\n \nthe\n \narea\n \nin\n \nfield.\n \n \n \n16.What\n \nis\n \ncontour\n \nmapping?\n \nWhat\n \nare\n \nthe\n \ncharacteristics\n \nof\n \ncontour\n \nmapping?\n \n \n \n17.Distinguish\n \nbetween\n \nflexible\n \nand\n \nrigid\n \npavements.\n \n \n \n18.What\n \nare\n \nthe\n \ncomponents\n \nof\n \nharbor?\n \nClassify\n \ndifferent\n \ntypes\n \nof\n \nharbors.\n \n \n \n \n \n \n \n \n(a)\n \nN\n \n85\u00b0\n \nE\n \n(b)\n \nS\n \n45\u00b0\n \n15\u2032\n \nE\n \n(c)\n \nS\n \n58\u00b0\n \n32\u2032\n \nW\n \n(d)\n \nN\n \n32\u00b0\n \n45\u2032\n \nW\n \n(e)\n \nS\n \n63\u00b015\u2019\n \nE\n \n \n \n \n \n \nShort\n \nAnswer\n \nQuestions:\n \n \n1.\nMention\n \nthe\n \ntypes\n \nof\n \ncement.\n \n \n \n2.State\n \nthe\n \nrole\n \nof\n \nenvironmental\n \nengineer\n \nin\n \npresent\n \nscenario.\n \n \n \n3.Name\n \nany\n \nfour\n \ninstruments\n \nused\n \nfor\n \nlinear\n \nmeasurements.\n \n \n \n4.What\n \nis\n \na\n \npavement\n \nand\n \nmention\n \nthe\n \ntypes\n \nof\n \npavements.\n \n \n \n5.Define\n \nrainwater\n \nharvesting.\n \n \n \n6.Describe\n \nthe\n \nimportance\n \nof\n \nsteel\n \nin\n \nconstruction\n \nof\n \nstructures.\n \n \n \n7.What\n \nis\n \nthe\n \nprinciple\n \nof\n \nchain\n \nsurveying?\n \n \n \n8.What\n \nis\n \nthe\n \nprinciple\n \nof\n \ncompass\n \nsurvey?\n \n \n \n9.What\n \nis\n \nmeant\n \nby\n \nflexible\n \npavements?\n \n \n \n10.Discuss\n \nthe\n \npurpose\n \nof\n \ntunnels.\n \n \n \n11.Discuss\n \nthe\n \nimportance\n \nof\n \ncement\n \nconcrete\n \nin\n \nconstruction.\n \n \n \n12.Describe\n \ntypes\n \nof\n \nbuildings.\n \n \n \n13.List\n \nout\n \nthe\n \nobjectives\n \nof\n \nsurveying.\n \n \n \n14.Define\n \nthe\n \nterms\n \n(a)\n \nDock\n \n(b)\n \nHarbor.\n \n \n \n15.Explain\n \nconcept\n \nof\n \nhydrology..\n \n \n \n",
+    "pdf_filename": "BCME MID-1 QUESTION BANK (1).pdf"
+  },
+  "a91c7abd-2c99-4f9a-8b8c-f9e5a4b07013": {
+    "title": "hi",
+    "history": [
+      [
+        "user",
+        "hi"
+      ],
+      [
+        "model",
+        "Hi there! How can I help you today? \ud83d\ude0a"
+      ],
+      [
+        "user",
+        "tell me the second questions from long answer question and short answer question"
+      ],
+      [
+        "model",
+        "The second question from the long answer questions is:\n\n\"Illustrate aggregate. Explain the classification of aggregates in detail.\"\n\nThe second question from the short answer questions is:\n\n\"State the role of environmental engineer in present scenario.\""
+      ]
+    ],
+    "pdf_context": "                     \nBCME\n \nMID-1\n \nQUESTION\n \nBANK\n \n \n \n \nLong\n \nAnswer\n \nQuestions:\n \n \n \n1\n.\nClassify\n \nbricks\n \nand\n \nexplain\n \nthe\n \nproperties\n \nof\n \nbricks.\n \n \n2.Illustrate\n \naggregate.\n \nExplain\n \nthe\n \nclassification\n \nof\n \naggregates\n \nin\n \ndetail.\n \n \n3.\n \na)\n \nConvert\n \nthe\n \nfollowing\n \nwhole\n \ncircle\n \nbearings\n \ninto\n \nreduced\n \nbearings:\n \n \n(a)\n \n14\u00b030\u2019\n \n(b)\n \n213\u00b0\n \n30\u2019\n \n(c)\n \n165\u00b0\n \n30\u2019\n \n(d)\n \n290\u00b0\n \n30\u2019\n \n(e)\n \n110\u00b0\n \n45\u2019\n \n \n3.b)Write\n \na\n \nshort\n \nnote\n \non\n \nwhole\n \ncircle\n \nbearing\n \nand\n \nreduced\n \nbearing\n.\n \n \n \n4\n \n.The\n \nfollowing\n \nten\n \nreadings\n \nwere\n \ntaken\n \nwith\n \na\n \nlevel,\n \nthe\n \ninstrument\n \nbeing\n \nshifted\n \nafter\n \nthe\n \nfifth\n \nand\n \neighth\n \nreadings:\n \n1.315,\n \n0.965,\n \n1.345,\n \n1.105,\n \n0.875,\n \n1.155,\n \n1.305\n \n1.675,\n \n1.345\n \nand\n \n1.875.\n \nThe\n \nRL\n \nof\n \nthe\n \nfirst\n \npoint\n \nis\n \n150.000.\n \nFind\n \nthe\n \nreduced\n \nlevels\n \nof\n \nthe\n \nremaining\n \npoints\n \n \n5.Explain\n \ntypes\n \nof\n \npavements\n \nwith\n \na\n \nneat\n \nsketch.\n \n \n \n6.What\n \nis\n \ntunnel\n \nand\n \nexplain\n \nin\n \ndetail.\n \n \n \n7.\nExplain\n \nany\n \ntwo\n \ndisciplines\n \nof\n \ncivil\n \nengineering\n \nin\n \ndetail.\n \n \n8.\nWhat\n \nis\n \ncement?\n \nList\n \nout\n \nthe\n \ntypes\n \nof\n \ncements\n \nand\n \ndiscuss\n \nraw\n \nmaterials\n \nused\n \nfor\n \nmanufacturing\n \nof\n \ncement.\n \n \n9.\nExplain\n \ncontours\n \nand\n \nuses\n \nof\n \ncontour\n \nmaps.\n \n \n \n \n10.a)\n \nConvert\n \nthe\n \nfollowing\n \nreduced\n \nbearings\n \ninto\n \nwhole\n \ncircle\n \nbearings:\n \n \n \n \n10.b)\n \nExplain\n \nthe\n \ntypes\n \nof\n \ninstruments\n \nused\n \nin\n \nlevelling\n \n \n11.Discuss\n \nquality\n \nand\n \nspecifications\n \nof\n \ndrinking\n \nwater.\n \n \n \n12.What\n \nis\n \nrainwater\n \nharvesting\n \nand\n \ndiscuss\n \nits\n \nimportance?\n \n \n \n13.Discuss\n \nthe\n \nroles\n \nand\n \nresponsibilities\n \nof\n \na\n \ncivil\n \nengineer\n \nin\n \ndetail.\n \n \n \n14.What\n \nare\n \nthe\n \nmain\n \nprinciples\n \ninvolved\n \nin\n \nbuilding\n \nplanning?\n \nExplain\n \nbriefly.\n \n \n \n15.a)\n \nThe\n \nfollowing\n \nfore\n \nbearings\n \nwere\n \nobserved\n \nfor\n \nlines,\n \nAB,\n \nBC,\n \nCD,\n \nDE,\n \nEF\n \nand\n \nFG\n \nrespectively.\n \nCalculate\n \ntheir\n \nback\n \nbearings:\n \n(a)\n \n148\u00b0\n \n(b)\n \n65\u00b0\n \n(c)\n \n285\u00b0\n \n(d)\n \n215\u00b0\n \n(e)\n \nN\n \n36\u00b0\n \nW\n \n(f)\n \nS\n \n40\u00b0\n \nE\n \n \n15.b)\n \nWhat\n \nis\n \nthe\n \nprinciple\n \nof\n \nchain\n \nsurveying?\n \nExplain\n \nthe\n \nprocedure\n \nfor\n \nmeasuring\n \nthe\n \narea\n \nin\n \nfield.\n \n \n \n16.What\n \nis\n \ncontour\n \nmapping?\n \nWhat\n \nare\n \nthe\n \ncharacteristics\n \nof\n \ncontour\n \nmapping?\n \n \n \n17.Distinguish\n \nbetween\n \nflexible\n \nand\n \nrigid\n \npavements.\n \n \n \n18.What\n \nare\n \nthe\n \ncomponents\n \nof\n \nharbor?\n \nClassify\n \ndifferent\n \ntypes\n \nof\n \nharbors.\n \n \n \n \n \n \n \n \n(a)\n \nN\n \n85\u00b0\n \nE\n \n(b)\n \nS\n \n45\u00b0\n \n15\u2032\n \nE\n \n(c)\n \nS\n \n58\u00b0\n \n32\u2032\n \nW\n \n(d)\n \nN\n \n32\u00b0\n \n45\u2032\n \nW\n \n(e)\n \nS\n \n63\u00b015\u2019\n \nE\n \n \n \n \n \n \nShort\n \nAnswer\n \nQuestions:\n \n \n1.\nMention\n \nthe\n \ntypes\n \nof\n \ncement.\n \n \n \n2.State\n \nthe\n \nrole\n \nof\n \nenvironmental\n \nengineer\n \nin\n \npresent\n \nscenario.\n \n \n \n3.Name\n \nany\n \nfour\n \ninstruments\n \nused\n \nfor\n \nlinear\n \nmeasurements.\n \n \n \n4.What\n \nis\n \na\n \npavement\n \nand\n \nmention\n \nthe\n \ntypes\n \nof\n \npavements.\n \n \n \n5.Define\n \nrainwater\n \nharvesting.\n \n \n \n6.Describe\n \nthe\n \nimportance\n \nof\n \nsteel\n \nin\n \nconstruction\n \nof\n \nstructures.\n \n \n \n7.What\n \nis\n \nthe\n \nprinciple\n \nof\n \nchain\n \nsurveying?\n \n \n \n8.What\n \nis\n \nthe\n \nprinciple\n \nof\n \ncompass\n \nsurvey?\n \n \n \n9.What\n \nis\n \nmeant\n \nby\n \nflexible\n \npavements?\n \n \n \n10.Discuss\n \nthe\n \npurpose\n \nof\n \ntunnels.\n \n \n \n11.Discuss\n \nthe\n \nimportance\n \nof\n \ncement\n \nconcrete\n \nin\n \nconstruction.\n \n \n \n12.Describe\n \ntypes\n \nof\n \nbuildings.\n \n \n \n13.List\n \nout\n \nthe\n \nobjectives\n \nof\n \nsurveying.\n \n \n \n14.Define\n \nthe\n \nterms\n \n(a)\n \nDock\n \n(b)\n \nHarbor.\n \n \n \n15.Explain\n \nconcept\n \nof\n \nhydrology..\n \n \n \n",
+    "pdf_filename": "BCME MID-1 QUESTION BANK (1).pdf",
+    "pdf_filesize": "104.2 KB"
+  },
+  "8a51fa6b-68a0-450f-a36a-82e7158fcd1a": {
+    "title": "hi",
+    "history": [
+      [
+        "user",
+        "hi"
+      ],
+      [
+        "model",
+        "Hi there! How can I help you today?"
+      ],
+      [
+        "user",
+        "what is first question in long answer question"
+      ],
+      [
+        "model",
+        "The first question in the long answer section is: \"Classify bricks and explain the properties of bricks.\""
+      ]
+    ],
+    "pdf_context": "                     \nBCME\n \nMID-1\n \nQUESTION\n \nBANK\n \n \n \n \nLong\n \nAnswer\n \nQuestions:\n \n \n \n1\n.\nClassify\n \nbricks\n \nand\n \nexplain\n \nthe\n \nproperties\n \nof\n \nbricks.\n \n \n2.Illustrate\n \naggregate.\n \nExplain\n \nthe\n \nclassification\n \nof\n \naggregates\n \nin\n \ndetail.\n \n \n3.\n \na)\n \nConvert\n \nthe\n \nfollowing\n \nwhole\n \ncircle\n \nbearings\n \ninto\n \nreduced\n \nbearings:\n \n \n(a)\n \n14\u00b030\u2019\n \n(b)\n \n213\u00b0\n \n30\u2019\n \n(c)\n \n165\u00b0\n \n30\u2019\n \n(d)\n \n290\u00b0\n \n30\u2019\n \n(e)\n \n110\u00b0\n \n45\u2019\n \n \n3.b)Write\n \na\n \nshort\n \nnote\n \non\n \nwhole\n \ncircle\n \nbearing\n \nand\n \nreduced\n \nbearing\n.\n \n \n \n4\n \n.The\n \nfollowing\n \nten\n \nreadings\n \nwere\n \ntaken\n \nwith\n \na\n \nlevel,\n \nthe\n \ninstrument\n \nbeing\n \nshifted\n \nafter\n \nthe\n \nfifth\n \nand\n \neighth\n \nreadings:\n \n1.315,\n \n0.965,\n \n1.345,\n \n1.105,\n \n0.875,\n \n1.155,\n \n1.305\n \n1.675,\n \n1.345\n \nand\n \n1.875.\n \nThe\n \nRL\n \nof\n \nthe\n \nfirst\n \npoint\n \nis\n \n150.000.\n \nFind\n \nthe\n \nreduced\n \nlevels\n \nof\n \nthe\n \nremaining\n \npoints\n \n \n5.Explain\n \ntypes\n \nof\n \npavements\n \nwith\n \na\n \nneat\n \nsketch.\n \n \n \n6.What\n \nis\n \ntunnel\n \nand\n \nexplain\n \nin\n \ndetail.\n \n \n \n7.\nExplain\n \nany\n \ntwo\n \ndisciplines\n \nof\n \ncivil\n \nengineering\n \nin\n \ndetail.\n \n \n8.\nWhat\n \nis\n \ncement?\n \nList\n \nout\n \nthe\n \ntypes\n \nof\n \ncements\n \nand\n \ndiscuss\n \nraw\n \nmaterials\n \nused\n \nfor\n \nmanufacturing\n \nof\n \ncement.\n \n \n9.\nExplain\n \ncontours\n \nand\n \nuses\n \nof\n \ncontour\n \nmaps.\n \n \n \n \n10.a)\n \nConvert\n \nthe\n \nfollowing\n \nreduced\n \nbearings\n \ninto\n \nwhole\n \ncircle\n \nbearings:\n \n \n \n \n10.b)\n \nExplain\n \nthe\n \ntypes\n \nof\n \ninstruments\n \nused\n \nin\n \nlevelling\n \n \n11.Discuss\n \nquality\n \nand\n \nspecifications\n \nof\n \ndrinking\n \nwater.\n \n \n \n12.What\n \nis\n \nrainwater\n \nharvesting\n \nand\n \ndiscuss\n \nits\n \nimportance?\n \n \n \n13.Discuss\n \nthe\n \nroles\n \nand\n \nresponsibilities\n \nof\n \na\n \ncivil\n \nengineer\n \nin\n \ndetail.\n \n \n \n14.What\n \nare\n \nthe\n \nmain\n \nprinciples\n \ninvolved\n \nin\n \nbuilding\n \nplanning?\n \nExplain\n \nbriefly.\n \n \n \n15.a)\n \nThe\n \nfollowing\n \nfore\n \nbearings\n \nwere\n \nobserved\n \nfor\n \nlines,\n \nAB,\n \nBC,\n \nCD,\n \nDE,\n \nEF\n \nand\n \nFG\n \nrespectively.\n \nCalculate\n \ntheir\n \nback\n \nbearings:\n \n(a)\n \n148\u00b0\n \n(b)\n \n65\u00b0\n \n(c)\n \n285\u00b0\n \n(d)\n \n215\u00b0\n \n(e)\n \nN\n \n36\u00b0\n \nW\n \n(f)\n \nS\n \n40\u00b0\n \nE\n \n \n15.b)\n \nWhat\n \nis\n \nthe\n \nprinciple\n \nof\n \nchain\n \nsurveying?\n \nExplain\n \nthe\n \nprocedure\n \nfor\n \nmeasuring\n \nthe\n \narea\n \nin\n \nfield.\n \n \n \n16.What\n \nis\n \ncontour\n \nmapping?\n \nWhat\n \nare\n \nthe\n \ncharacteristics\n \nof\n \ncontour\n \nmapping?\n \n \n \n17.Distinguish\n \nbetween\n \nflexible\n \nand\n \nrigid\n \npavements.\n \n \n \n18.What\n \nare\n \nthe\n \ncomponents\n \nof\n \nharbor?\n \nClassify\n \ndifferent\n \ntypes\n \nof\n \nharbors.\n \n \n \n \n \n \n \n \n(a)\n \nN\n \n85\u00b0\n \nE\n \n(b)\n \nS\n \n45\u00b0\n \n15\u2032\n \nE\n \n(c)\n \nS\n \n58\u00b0\n \n32\u2032\n \nW\n \n(d)\n \nN\n \n32\u00b0\n \n45\u2032\n \nW\n \n(e)\n \nS\n \n63\u00b015\u2019\n \nE\n \n \n \n \n \n \nShort\n \nAnswer\n \nQuestions:\n \n \n1.\nMention\n \nthe\n \ntypes\n \nof\n \ncement.\n \n \n \n2.State\n \nthe\n \nrole\n \nof\n \nenvironmental\n \nengineer\n \nin\n \npresent\n \nscenario.\n \n \n \n3.Name\n \nany\n \nfour\n \ninstruments\n \nused\n \nfor\n \nlinear\n \nmeasurements.\n \n \n \n4.What\n \nis\n \na\n \npavement\n \nand\n \nmention\n \nthe\n \ntypes\n \nof\n \npavements.\n \n \n \n5.Define\n \nrainwater\n \nharvesting.\n \n \n \n6.Describe\n \nthe\n \nimportance\n \nof\n \nsteel\n \nin\n \nconstruction\n \nof\n \nstructures.\n \n \n \n7.What\n \nis\n \nthe\n \nprinciple\n \nof\n \nchain\n \nsurveying?\n \n \n \n8.What\n \nis\n \nthe\n \nprinciple\n \nof\n \ncompass\n \nsurvey?\n \n \n \n9.What\n \nis\n \nmeant\n \nby\n \nflexible\n \npavements?\n \n \n \n10.Discuss\n \nthe\n \npurpose\n \nof\n \ntunnels.\n \n \n \n11.Discuss\n \nthe\n \nimportance\n \nof\n \ncement\n \nconcrete\n \nin\n \nconstruction.\n \n \n \n12.Describe\n \ntypes\n \nof\n \nbuildings.\n \n \n \n13.List\n \nout\n \nthe\n \nobjectives\n \nof\n \nsurveying.\n \n \n \n14.Define\n \nthe\n \nterms\n \n(a)\n \nDock\n \n(b)\n \nHarbor.\n \n \n \n15.Explain\n \nconcept\n \nof\n \nhydrology..\n \n \n \n",
+    "pdf_filename": "BCME MID-1 QUESTION BANK (1).pdf",
+    "pdf_filesize": "104.2 KB"
+  },
+  "d156ddcd-4842-4b91-b3e4-2e896b3c1fb7": {
+    "title": "hello",
+    "history": [
+      [
+        "user",
+        "hello"
+      ],
+      [
+        "model",
+        "Hello! How can I help you today?"
+      ],
+      [
+        "user",
+        "what is the capital of india"
+      ],
+      [
+        "model",
+        "The capital of India is New Delhi."
+      ],
+      [
+        "user",
+        "my name is 55"
+      ],
+      [
+        "model",
+        "Hello 55! How can I help you today?"
+      ],
+      [
+        "user",
+        "what is my name"
+      ],
+      [
+        "model",
+        "Hello 55! How can I help you today?"
+      ],
+      [
+        "user",
+        "tell me my name"
+      ],
+      [
+        "model",
+        "You haven't told me your name yet! I'm ready to listen whenever you'd like to share it."
+      ],
+      [
+        "user",
+        "55"
+      ],
+      [
+        "model",
+        "Hello 55! How can I help you today?"
+      ]
+    ],
+    "pdf_context": "",
+    "pdf_filename": "",
+    "pdf_filesize": ""
+  },
+  "4801aa6c-2266-4447-9990-9e75a6c01d19": {
+    "title": "Hello, what model are you?",
+    "history": [
+      [
+        "user",
+        "Hello, what model are you?"
+      ],
+      [
+        "model",
+        "I am a large language model, trained by Google."
+      ]
+    ],
+    "pdf_context": "",
+    "pdf_filename": "",
+    "pdf_filesize": ""
+  },
+  "45b7e49a-afbf-422a-bdc8-9f71e8221636": {
+    "title": "hi",
+    "history": [
+      [
+        "user",
+        "hi"
+      ],
+      [
+        "model",
+        "Hello! How can I help you today?"
+      ]
+    ],
+    "pdf_context": "                     \nBCME\n \nMID-1\n \nQUESTION\n \nBANK\n \n \n \n \nLong\n \nAnswer\n \nQuestions:\n \n \n \n1\n.\nClassify\n \nbricks\n \nand\n \nexplain\n \nthe\n \nproperties\n \nof\n \nbricks.\n \n \n2.Illustrate\n \naggregate.\n \nExplain\n \nthe\n \nclassification\n \nof\n \naggregates\n \nin\n \ndetail.\n \n \n3.\n \na)\n \nConvert\n \nthe\n \nfollowing\n \nwhole\n \ncircle\n \nbearings\n \ninto\n \nreduced\n \nbearings:\n \n \n(a)\n \n14\u00b030\u2019\n \n(b)\n \n213\u00b0\n \n30\u2019\n \n(c)\n \n165\u00b0\n \n30\u2019\n \n(d)\n \n290\u00b0\n \n30\u2019\n \n(e)\n \n110\u00b0\n \n45\u2019\n \n \n3.b)Write\n \na\n \nshort\n \nnote\n \non\n \nwhole\n \ncircle\n \nbearing\n \nand\n \nreduced\n \nbearing\n.\n \n \n \n4\n \n.The\n \nfollowing\n \nten\n \nreadings\n \nwere\n \ntaken\n \nwith\n \na\n \nlevel,\n \nthe\n \ninstrument\n \nbeing\n \nshifted\n \nafter\n \nthe\n \nfifth\n \nand\n \neighth\n \nreadings:\n \n1.315,\n \n0.965,\n \n1.345,\n \n1.105,\n \n0.875,\n \n1.155,\n \n1.305\n \n1.675,\n \n1.345\n \nand\n \n1.875.\n \nThe\n \nRL\n \nof\n \nthe\n \nfirst\n \npoint\n \nis\n \n150.000.\n \nFind\n \nthe\n \nreduced\n \nlevels\n \nof\n \nthe\n \nremaining\n \npoints\n \n \n5.Explain\n \ntypes\n \nof\n \npavements\n \nwith\n \na\n \nneat\n \nsketch.\n \n \n \n6.What\n \nis\n \ntunnel\n \nand\n \nexplain\n \nin\n \ndetail.\n \n \n \n7.\nExplain\n \nany\n \ntwo\n \ndisciplines\n \nof\n \ncivil\n \nengineering\n \nin\n \ndetail.\n \n \n8.\nWhat\n \nis\n \ncement?\n \nList\n \nout\n \nthe\n \ntypes\n \nof\n \ncements\n \nand\n \ndiscuss\n \nraw\n \nmaterials\n \nused\n \nfor\n \nmanufacturing\n \nof\n \ncement.\n \n \n9.\nExplain\n \ncontours\n \nand\n \nuses\n \nof\n \ncontour\n \nmaps.\n \n \n \n \n10.a)\n \nConvert\n \nthe\n \nfollowing\n \nreduced\n \nbearings\n \ninto\n \nwhole\n \ncircle\n \nbearings:\n \n \n \n \n10.b)\n \nExplain\n \nthe\n \ntypes\n \nof\n \ninstruments\n \nused\n \nin\n \nlevelling\n \n \n11.Discuss\n \nquality\n \nand\n \nspecifications\n \nof\n \ndrinking\n \nwater.\n \n \n \n12.What\n \nis\n \nrainwater\n \nharvesting\n \nand\n \ndiscuss\n \nits\n \nimportance?\n \n \n \n13.Discuss\n \nthe\n \nroles\n \nand\n \nresponsibilities\n \nof\n \na\n \ncivil\n \nengineer\n \nin\n \ndetail.\n \n \n \n14.What\n \nare\n \nthe\n \nmain\n \nprinciples\n \ninvolved\n \nin\n \nbuilding\n \nplanning?\n \nExplain\n \nbriefly.\n \n \n \n15.a)\n \nThe\n \nfollowing\n \nfore\n \nbearings\n \nwere\n \nobserved\n \nfor\n \nlines,\n \nAB,\n \nBC,\n \nCD,\n \nDE,\n \nEF\n \nand\n \nFG\n \nrespectively.\n \nCalculate\n \ntheir\n \nback\n \nbearings:\n \n(a)\n \n148\u00b0\n \n(b)\n \n65\u00b0\n \n(c)\n \n285\u00b0\n \n(d)\n \n215\u00b0\n \n(e)\n \nN\n \n36\u00b0\n \nW\n \n(f)\n \nS\n \n40\u00b0\n \nE\n \n \n15.b)\n \nWhat\n \nis\n \nthe\n \nprinciple\n \nof\n \nchain\n \nsurveying?\n \nExplain\n \nthe\n \nprocedure\n \nfor\n \nmeasuring\n \nthe\n \narea\n \nin\n \nfield.\n \n \n \n16.What\n \nis\n \ncontour\n \nmapping?\n \nWhat\n \nare\n \nthe\n \ncharacteristics\n \nof\n \ncontour\n \nmapping?\n \n \n \n17.Distinguish\n \nbetween\n \nflexible\n \nand\n \nrigid\n \npavements.\n \n \n \n18.What\n \nare\n \nthe\n \ncomponents\n \nof\n \nharbor?\n \nClassify\n \ndifferent\n \ntypes\n \nof\n \nharbors.\n \n \n \n \n \n \n \n \n(a)\n \nN\n \n85\u00b0\n \nE\n \n(b)\n \nS\n \n45\u00b0\n \n15\u2032\n \nE\n \n(c)\n \nS\n \n58\u00b0\n \n32\u2032\n \nW\n \n(d)\n \nN\n \n32\u00b0\n \n45\u2032\n \nW\n \n(e)\n \nS\n \n63\u00b015\u2019\n \nE\n \n \n \n \n \n \nShort\n \nAnswer\n \nQuestions:\n \n \n1.\nMention\n \nthe\n \ntypes\n \nof\n \ncement.\n \n \n \n2.State\n \nthe\n \nrole\n \nof\n \nenvironmental\n \nengineer\n \nin\n \npresent\n \nscenario.\n \n \n \n3.Name\n \nany\n \nfour\n \ninstruments\n \nused\n \nfor\n \nlinear\n \nmeasurements.\n \n \n \n4.What\n \nis\n \na\n \npavement\n \nand\n \nmention\n \nthe\n \ntypes\n \nof\n \npavements.\n \n \n \n5.Define\n \nrainwater\n \nharvesting.\n \n \n \n6.Describe\n \nthe\n \nimportance\n \nof\n \nsteel\n \nin\n \nconstruction\n \nof\n \nstructures.\n \n \n \n7.What\n \nis\n \nthe\n \nprinciple\n \nof\n \nchain\n \nsurveying?\n \n \n \n8.What\n \nis\n \nthe\n \nprinciple\n \nof\n \ncompass\n \nsurvey?\n \n \n \n9.What\n \nis\n \nmeant\n \nby\n \nflexible\n \npavements?\n \n \n \n10.Discuss\n \nthe\n \npurpose\n \nof\n \ntunnels.\n \n \n \n11.Discuss\n \nthe\n \nimportance\n \nof\n \ncement\n \nconcrete\n \nin\n \nconstruction.\n \n \n \n12.Describe\n \ntypes\n \nof\n \nbuildings.\n \n \n \n13.List\n \nout\n \nthe\n \nobjectives\n \nof\n \nsurveying.\n \n \n \n14.Define\n \nthe\n \nterms\n \n(a)\n \nDock\n \n(b)\n \nHarbor.\n \n \n \n15.Explain\n \nconcept\n \nof\n \nhydrology..\n \n \n \n",
+    "pdf_filename": "BCME MID-1 QUESTION BANK (1).pdf",
+    "pdf_filesize": "104.2 KB"
+  }
+}
